@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hello Squirrel</string>
+
+    <string name="first_name">Gael</string>
+    <string name="last_name">Diab</string>
+    <string name="full_name">%s %s</string>
+
+    <string name="profile_bio_text">Im a full time student living in New York.\nI attend Hunter college in Manhattan\nand im a computer science student.</string>
+
+    <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
+    <string name="profile_hobby_first_text">🥇 I plan and host events for fun</string>
+    <string name="profile_hobby_second_text">🥈 I love cooking</string>
+    <string name="profile_hobby_third_text">🥉 I sing and act!</string>
+</resources>
